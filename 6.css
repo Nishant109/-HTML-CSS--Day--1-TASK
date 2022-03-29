@@ -1,0 +1,20 @@
+form{
+    padding: 10px;
+    margin: 10px;
+    background-color: solid antiquewhite;
+    border: 1px solid black;
+    box-shadow: 0px 0px 5px black;
+    width: 500px;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+input{
+    padding:10px;
+    margin: 10px;
+}
+#container{
+    border-radius:10px;
+    margin-left: 6cm;
+}
